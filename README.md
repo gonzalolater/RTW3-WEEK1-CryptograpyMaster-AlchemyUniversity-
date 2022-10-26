@@ -1,6 +1,6 @@
 # AlchemyWeek1
 
-1. How to Develop an NFT Smart Contract (ERC721) with Alchemy
+1.How to Develop an NFT Smart Contract (ERC721) with Alchemy
 
 2. NFT
 
