@@ -6,10 +6,10 @@
 
 https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/583
 
-3.pantalla 1
+3. Pantalla 1
 ![image](https://user-images.githubusercontent.com/42863568/198146909-a9a25297-2f42-4ea6-a917-800e6c9bc400.png)
 
-4.pantalla 2
+4. Pantalla 2
 ![image](https://user-images.githubusercontent.com/42863568/198146935-955c9f6c-5ec1-4ad7-a64b-3d1f164436b9.png)
 
 5.Goerli Transaccion
