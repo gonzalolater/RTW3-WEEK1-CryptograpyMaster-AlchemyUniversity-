@@ -7,7 +7,7 @@ pantalla 1
 pantalla 2
 ![image](https://user-images.githubusercontent.com/42863568/198146935-955c9f6c-5ec1-4ad7-a64b-3d1f164436b9.png)
 
-Goarli Transaccion
+Goerli Transaccion
 https://goerli.etherscan.io/tx/0x1208e3024d10e37e099f3872ae533d379520aca9d5deafd8879f9e0d5a2b8db1
 
 Remix IDE
