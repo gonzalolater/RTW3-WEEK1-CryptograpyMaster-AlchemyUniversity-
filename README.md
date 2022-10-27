@@ -15,7 +15,8 @@
 5. Goerli Transaccion
 https://goerli.etherscan.io/tx/0x1208e3024d10e37e099f3872ae533d379520aca9d5deafd8879f9e0d5a2b8db1
 
-6. IPFS Pinata: https://gateway.pinata.cloud/ipfs/QmcWwmLirRqTnKQpad3PRAYDHMWp7MdKYMB4HAu8qgtQvZ
+6. IPFS Pinata: https://gateway.pinata.cloud/ipfs/QmcWwmLirRqTnKQpad3PRAYDHMWp7MdKYMB4HAu8qgtQvZ   
+
   CID: QmcWwmLirRqTnKQpad3PRAYDHMWp7MdKYMB4HAu8qgtQvZ
   Name: alchemy2.json
   
