@@ -18,6 +18,7 @@ https://goerli.etherscan.io/tx/0x1208e3024d10e37e099f3872ae533d379520aca9d5deafd
 6. IPFS Pinata: https://gateway.pinata.cloud/ipfs/QmcWwmLirRqTnKQpad3PRAYDHMWp7MdKYMB4HAu8qgtQvZ   
 
      CID: QmcWwmLirRqTnKQpad3PRAYDHMWp7MdKYMB4HAu8qgtQvZ
+     
      Name: alchemy2.json
   
 7. Remix IDE
